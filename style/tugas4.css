@@ -1,0 +1,7 @@
+.text{
+  height:40px;
+}
+[type="button"]{
+  color: orange !important;
+  font-size: 30px;
+}
